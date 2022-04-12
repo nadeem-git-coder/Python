@@ -10,6 +10,7 @@ from typing import Counter, DefaultDict
 
 
 '''d={'1':2 , '2':4}
+
 a,b = d.items()'''
 #print(a,b)
 
@@ -41,6 +42,9 @@ for i in l:
         d[i]=[i]
 
 print(d)
+
+print(2+1)
+
 
 
 
